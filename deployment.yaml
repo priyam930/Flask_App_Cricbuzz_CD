@@ -18,7 +18,7 @@ spec:
         app: flask-app
     spec:
       containers:
-      - image: priyam930/flask-app:35
+      - image: priyam930/flask-app:2
         name: flask-app
 
 ---
